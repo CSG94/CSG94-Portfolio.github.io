@@ -1,20 +1,17 @@
+Tú dijiste:
 body {
   background-color: #EBE7E6;
   font-family: Georgia, serif;
   text-align: center;
-  padding: 40px
-}
+  padding: 40px;}
 h1{
-  color: #421602;
-}
+  color: #421602;}
 button{
   background-color:#E189F5;
   color:white;
   border: none;
   padding: 10px 20px;
   border-radius: 8px;
-  cursor: pointer;
-}
+  cursor: pointer;}
 button:hover{
-  background-color: #9DF589;
-}
+  background-color: #9DF589;}
