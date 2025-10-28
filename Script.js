@@ -1,5 +1,4 @@
 var ultimoColor = "";
-
 function cambioColor() {
   
   var colores = ["#F4F466" , "#6666F4" , "#F49166" , "#66C9F4"];
@@ -11,5 +10,4 @@ function cambioColor() {
 }
   document.body.style.backgroundColor = nuevoColor;
 ultimoColor = nuevoColor;
- 
 }
